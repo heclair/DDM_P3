@@ -102,4 +102,12 @@ Os resultados da avaliação do modelo são salvos em `app/results/relatorio_cla
 Também é salvo um arquivo com as palavras mais influentes: `app/results/top_palavras_por_emocao.csv`.
 
 ---
+## 📄 Licença
 
+Este projeto é de uso educacional e acadêmico. Para uso em produção, é importante aplicar filtros adicionais, controle de viés e validação contínua.
+
+---
+
+## 🙋‍♂️ Contato
+
+Dúvidas ou sugestões? Contribuições são bem-vindas!
