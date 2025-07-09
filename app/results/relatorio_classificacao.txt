@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+     alegria       1.00      1.00      1.00       148
+        medo       1.00      1.00      1.00       162
+        nojo       1.00      1.00      1.00       166
+       raiva       1.00      1.00      1.00       160
+    surpresa       1.00      1.00      1.00       167
+    tristeza       1.00      1.00      1.00       167
+
+    accuracy                           1.00       970
+   macro avg       1.00      1.00      1.00       970
+weighted avg       1.00      1.00      1.00       970

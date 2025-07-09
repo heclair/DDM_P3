@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.env
+*.env
+
+# Arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e cache
+*.log
+*.tmp
+*.cache
+*.pickle
+
+# Arquivos do Jupyter (se aplicável)
+.ipynb_checkpoints
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
