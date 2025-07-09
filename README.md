@@ -103,5 +103,3 @@ Também é salvo um arquivo com as palavras mais influentes: `app/results/top_pa
 
 ---
 
-## 📌 Autor
-Projeto desenvolvido por [Seu Nome Aqui].
