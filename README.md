@@ -51,7 +51,7 @@ python -m app.train.train_model
 
 4. Inicie a API:
 ```bash
-uvicorn app.api.main:app --reload
+uvicorn app.main:app --reload
 ```
 
 ---
